@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "e1": "npx tsx exercise1/index.ts",    
+    "e2": "npx tsx exercise2/index.ts",    
+    "e3": "npx tsx exercise3/index.ts",    
+    "e4": "npx tsx exercise4/index.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
